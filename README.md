@@ -1,7 +1,13 @@
-El proyecto de este curso consiste en analizar un conjunto de datos sobre fallo cardíaco. El objetivo es procesar los datos, limpiarlos y ajustar modelos de machine learning para realizar predicciones sobre los datos.
+# Analisis de Insuficiencia Cardiaca
 
-Requisitos
+# Descripción del proyecto
 
-Para desarrollar este proyecto, necesitas instalar la librería datasets de Huggingface. Puedes hacerlo con el siguiente comando:
+Este proyecto analiza un conjunto de datos sobre insuficiencia cardíaca con el fin de identificar patrones y realizar predicciones sobre el resultado de los pacientes. Utilizamos Python y varias bibliotecas para procesar los datos, explorarlos y prepararlos para el modelado de machine learning.
 
-pip install datasets
+# Bibliotecas usadas
+
+# from datasets import load_dataset
+
+# import numpy as np
+
+# import pandas as pd
